@@ -1,0 +1,47 @@
+.container-custom {
+    border-style: groove;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    /* Add any additional styles as needed */
+}
+
+.table-bordered {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table-bordered tbody tr {
+    border-bottom: 1px solid #dee2e6;
+
+}
+
+.btn {
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.btn_border {
+    border: 1px solid #121314;
+}
+
+.table thead th {
+    background-color: #DAEFF5;
+    /* Set the background color for table header */
+}
+
+.table tbody tr {
+    background-color: #ffffff;
+    /* Set the background color for table rows */
+}
+
+.background-area {
+    background-color: #D8F2EF;
+    /* Set the background color for the area with Add button */
+}
+
+.App {
+    background-color: #F0F5F4;
+    /* Set the background color for the rest of the page */
+}
