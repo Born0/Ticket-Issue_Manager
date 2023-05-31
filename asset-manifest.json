@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ticket-Issue_Manager/static/css/main.75b4370d.css",
+    "main.js": "/Ticket-Issue_Manager/static/js/main.fb2dfefe.js",
+    "static/js/787.bc7d429a.chunk.js": "/Ticket-Issue_Manager/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/Ticket-Issue_Manager/index.html",
+    "main.75b4370d.css.map": "/Ticket-Issue_Manager/static/css/main.75b4370d.css.map",
+    "main.fb2dfefe.js.map": "/Ticket-Issue_Manager/static/js/main.fb2dfefe.js.map",
+    "787.bc7d429a.chunk.js.map": "/Ticket-Issue_Manager/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75b4370d.css",
+    "static/js/main.fb2dfefe.js"
+  ]
+}
