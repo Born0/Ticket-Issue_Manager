@@ -6,11 +6,11 @@
     /* Add any additional styles as needed */
 }
 
-.table-bordered {
+/* .table-bordered {
     width: 70%;
     margin-left: auto;
     margin-right: auto;
-}
+} */
 
 .table-bordered tbody tr {
     border-bottom: 1px solid #dee2e6;

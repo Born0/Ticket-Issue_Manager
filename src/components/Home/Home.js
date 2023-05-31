@@ -109,11 +109,10 @@ const Home = () => {
 
 	return (
 		<div>
-			<h1>Tickets</h1>
 			<div className='row'>
-				<div className='col-md-8'>
+				<div className='col-md-10'>
 				</div>
-				<div className='col-md-3'  >
+				<div className='col-md-2'  >
 					<button style={{ width: "200px" }} className="btn btn-primary" onClick={handleAddTicket}>
 						Add New Ticket
 					</button>
@@ -137,10 +136,10 @@ const Home = () => {
 								<td>{ticket.description}</td>
 								<td>
 									<button className="btn btn_border" onClick={() => handleEdit(ticket)}>
-										<img width="20" height="20" src="https://img.icons8.com/sf-regular/24/create-new.png" alt="create-new" />
+										<img width="20" height="20" src="https://img.icons8.com/sf-regular/24/create-new.png" alt="Edit" />
 									</button>
 									<button className="btn btn_border" onClick={() => handleDelete(ticket)}>
-										<img width="20" height="20" src="https://img.icons8.com/sf-regular/20/filled-trash.png" alt="filled-trash" />
+										<img width="20" height="20" src="https://img.icons8.com/sf-regular/20/filled-trash.png" alt="Delete" />
 									</button>
 								</td>
 							</tr>
